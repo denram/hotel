@@ -32,11 +32,11 @@ CREATE TABLE checkin (
 WebServices Rest:
 
    Serviço: Gravar Hóspede.
-   -Descrição: O sistema procura se ho hóspede já existe. Se existir atualiza os dados e se não existir cria um novo.
-   -method: POST
-   -url: localhost:8080/hotel/rest/hospede/gravar
-   -Media Type: JSON(application/json)
-   -body: {"nome":"Juca Silva","documento":"123-456-789","telefone":"3370-0000"}
+-Descrição: O sistema procura se ho hóspede já existe. Se existir atualiza os dados e se não existir cria um novo.
+-method: POST
+-url: localhost:8080/hotel/rest/hospede/gravar
+-Media Type: JSON(application/json)
+-body: {"nome":"Juca Silva","documento":"123-456-789","telefone":"3370-0000"}
 
    Serviço: Consultar Hóspede.
    Descrição: A consulta pode ser feita pelo nome, documento ou telefone.

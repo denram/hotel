@@ -91,3 +91,4 @@ Regra para cálculo do valor total da hospedagem:
 Preços de diárias:
 - A diária de segunda a sexta custa R$ 120,00 e finais de semana custa R$ 150,00.
 - Se o cliente precisar de uma vaga na garagem há um acréscimo diário de R$ 15,00 de segunda a sexta e de R$ 20,00 aos finais de semana.
+
